@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-05-30T21:45:16.938582",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.11",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-05-30T21:45:19.127006",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.12",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-05-30T21:45:21.304462",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.13",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "timestamp": "2025-05-30T21:45:23.467001",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.14",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "timestamp": "2025-05-30T21:45:25.638994",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.15",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "timestamp": "2025-05-30T21:45:27.806982",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.16",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "timestamp": "2025-05-30T21:45:29.967071",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.17",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "timestamp": "2025-05-30T21:45:32.130863",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.18",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "timestamp": "2025-05-30T21:45:34.318781",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.19",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "timestamp": "2025-05-30T21:45:36.507005",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.20",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "timestamp": "2025-05-30T21:45:45.138841",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "timestamp": "2025-05-30T21:45:45.278830",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 13,
+    "timestamp": "2025-05-30T21:45:45.414933",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 14,
+    "timestamp": "2025-05-30T21:45:45.546755",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 15,
+    "timestamp": "2025-05-30T21:45:45.674869",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 16,
+    "timestamp": "2025-05-30T21:45:45.807218",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 15 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 17,
+    "timestamp": "2025-05-30T21:45:47.938952",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 16 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 18,
+    "timestamp": "2025-05-30T21:45:47.940433",
+    "type": "SQL Injection Attempt",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "SQL injection pattern detected: union\\s+select",
+    "severity": "CRITICAL",
+    "status": "active"
+  },
+  {
+    "id": 19,
+    "timestamp": "2025-05-30T21:45:48.470867",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 17 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 20,
+    "timestamp": "2025-05-30T21:45:48.999058",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 18 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 21,
+    "timestamp": "2025-05-30T21:45:48.999857",
+    "type": "SQL Injection Attempt",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "SQL injection pattern detected: drop\\s+table",
+    "severity": "CRITICAL",
+    "status": "active"
+  },
+  {
+    "id": 22,
+    "timestamp": "2025-05-30T21:45:51.535237",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 19 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 23,
+    "timestamp": "2025-05-30T21:45:51.536431",
+    "type": "Cross-Site Scripting (XSS)",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "XSS pattern detected: <script[^>]*>",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 24,
+    "timestamp": "2025-05-30T21:45:52.071201",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 20 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 25,
+    "timestamp": "2025-05-30T21:45:52.072046",
+    "type": "Cross-Site Scripting (XSS)",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "XSS pattern detected: onerror\\s*=",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 26,
+    "timestamp": "2025-05-30T21:45:52.603219",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 21 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 27,
+    "timestamp": "2025-05-30T21:45:52.603983",
+    "type": "Cross-Site Scripting (XSS)",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "XSS pattern detected: javascript:",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 28,
+    "timestamp": "2025-05-30T21:45:55.139325",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 29,
+    "timestamp": "2025-05-30T21:45:55.323250",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.2",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 30,
+    "timestamp": "2025-05-30T21:45:55.486439",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.3",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 31,
+    "timestamp": "2025-05-30T21:45:57.855859",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.5",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 32,
+    "timestamp": "2025-05-30T21:46:00.047090",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.6",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 33,
+    "timestamp": "2025-05-30T21:46:02.214963",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.7",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 34,
+    "timestamp": "2025-05-30T21:46:04.398828",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.8",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 35,
+    "timestamp": "2025-05-30T21:46:06.574644",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.9",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 36,
+    "timestamp": "2025-05-30T21:46:08.743130",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.10",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 37,
+    "timestamp": "2025-05-30T21:46:10.934969",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.11",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 38,
+    "timestamp": "2025-05-30T21:46:13.108011",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.12",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 39,
+    "timestamp": "2025-05-30T21:46:15.286884",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.13",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 40,
+    "timestamp": "2025-05-30T21:46:17.454813",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.14",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 41,
+    "timestamp": "2025-05-30T21:46:19.646665",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.15",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 42,
+    "timestamp": "2025-05-30T21:46:21.855069",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.16",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 43,
+    "timestamp": "2025-05-30T21:46:24.022837",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.17",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 44,
+    "timestamp": "2025-05-30T21:46:26.190921",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.18",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 45,
+    "timestamp": "2025-05-30T21:46:28.367029",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.19",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 46,
+    "timestamp": "2025-05-30T21:46:30.559477",
+    "type": "ICMP Ping Sweep",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.20",
+    "details": "Multiple ICMP echo requests detected",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 47,
+    "timestamp": "2025-05-30T21:46:32.691095",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 22 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 48,
+    "timestamp": "2025-05-30T21:46:32.692318",
+    "type": "Suspicious Port Access",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Access to suspicious port 4444",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 49,
+    "timestamp": "2025-05-30T21:46:33.226946",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 23 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 50,
+    "timestamp": "2025-05-30T21:46:33.227780",
+    "type": "Suspicious Port Access",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Access to suspicious port 5555",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 51,
+    "timestamp": "2025-05-30T21:46:33.762866",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 24 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 52,
+    "timestamp": "2025-05-30T21:46:33.767130",
+    "type": "Suspicious Port Access",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Access to suspicious port 6666",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 53,
+    "timestamp": "2025-05-30T21:46:34.302749",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 25 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 54,
+    "timestamp": "2025-05-30T21:46:34.303884",
+    "type": "Suspicious Port Access",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Access to suspicious port 31337",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 55,
+    "timestamp": "2025-05-30T21:46:34.842672",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Scanned 26 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 56,
+    "timestamp": "2025-05-30T21:46:34.843906",
+    "type": "Suspicious Port Access",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "10.0.2.1",
+    "details": "Access to suspicious port 12345",
+    "severity": "MEDIUM",
+    "status": "active"
+  },
+  {
+    "id": 57,
+    "timestamp": "2025-05-30T21:52:10.928447",
+    "type": "Command Injection Attempt",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.107.243.93",
+    "details": "Command injection pattern detected: `[^`]*`",
+    "severity": "CRITICAL",
+    "status": "active"
+  },
+  {
+    "id": 58,
+    "timestamp": "2025-05-30T21:52:11.022586",
+    "type": "Command Injection Attempt",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.107.243.93",
+    "details": "Command injection pattern detected: `[^`]*`",
+    "severity": "CRITICAL",
+    "status": "active"
+  },
+  {
+    "id": 59,
+    "timestamp": "2025-05-30T21:52:11.620080",
+    "type": "Command Injection Attempt",
+    "source_ip": "34.160.144.191",
+    "destination_ip": "10.0.2.4",
+    "details": "Command injection pattern detected: `[^`]*`",
+    "severity": "CRITICAL",
+    "status": "active"
+  },
+  {
+    "id": 60,
+    "timestamp": "2025-05-30T21:52:12.509964",
+    "type": "Command Injection Attempt",
+    "source_ip": "34.149.100.209",
+    "destination_ip": "10.0.2.4",
+    "details": "Command injection pattern detected: `[^`]*`",
+    "severity": "CRITICAL",
+    "status": "active"
+  },
+  {
+    "id": 61,
+    "timestamp": "2025-05-30T21:53:22.062892",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 62,
+    "timestamp": "2025-05-30T21:53:22.382761",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 63,
+    "timestamp": "2025-05-30T21:53:26.094157",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 64,
+    "timestamp": "2025-05-30T21:53:26.098068",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 65,
+    "timestamp": "2025-05-30T21:53:34.286566",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 66,
+    "timestamp": "2025-05-30T21:53:34.288785",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 15 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 67,
+    "timestamp": "2025-05-30T21:53:50.414417",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 16 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 68,
+    "timestamp": "2025-05-30T21:53:50.417732",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 17 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 69,
+    "timestamp": "2025-05-30T21:54:56.462036",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 70,
+    "timestamp": "2025-05-30T21:55:04.398336",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 71,
+    "timestamp": "2025-05-30T21:55:04.658179",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 72,
+    "timestamp": "2025-05-30T21:55:20.526187",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 73,
+    "timestamp": "2025-05-30T21:55:20.786133",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 74,
+    "timestamp": "2025-05-30T21:55:59.468027",
+    "type": "Command Injection Attempt",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "18.200.200.198",
+    "details": "Command injection pattern detected: `[^`]*`",
+    "severity": "CRITICAL",
+    "status": "active"
+  },
+  {
+    "id": 75,
+    "timestamp": "2025-05-30T21:56:19.549891",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 76,
+    "timestamp": "2025-05-30T21:56:20.210422",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 77,
+    "timestamp": "2025-05-30T21:56:20.302677",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 78,
+    "timestamp": "2025-05-30T21:56:20.558696",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 79,
+    "timestamp": "2025-05-30T21:56:22.222482",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 80,
+    "timestamp": "2025-05-30T21:56:22.318757",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 81,
+    "timestamp": "2025-05-30T21:56:22.578488",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 82,
+    "timestamp": "2025-05-30T21:56:26.318854",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 15 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 83,
+    "timestamp": "2025-05-30T21:56:26.574706",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 16 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 84,
+    "timestamp": "2025-05-30T21:56:26.833355",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 17 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 85,
+    "timestamp": "2025-05-30T21:56:31.096135",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "142.250.75.74",
+    "details": "Scanned 18 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 86,
+    "timestamp": "2025-05-30T21:56:34.510012",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 19 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 87,
+    "timestamp": "2025-05-30T21:56:34.766205",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 20 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 88,
+    "timestamp": "2025-05-30T21:56:35.026186",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 21 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 89,
+    "timestamp": "2025-05-30T21:56:50.638073",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 22 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 90,
+    "timestamp": "2025-05-30T21:56:50.894984",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 23 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 91,
+    "timestamp": "2025-05-30T21:56:51.150633",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 24 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 92,
+    "timestamp": "2025-05-30T21:57:23.150193",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 93,
+    "timestamp": "2025-05-30T21:57:23.152435",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.160.144.191",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 94,
+    "timestamp": "2025-05-30T21:57:25.202727",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 95,
+    "timestamp": "2025-05-30T21:57:57.454578",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 96,
+    "timestamp": "2025-05-30T21:57:57.710209",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 97,
+    "timestamp": "2025-05-30T21:58:05.646046",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 98,
+    "timestamp": "2025-05-30T21:58:05.902516",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 99,
+    "timestamp": "2025-05-30T21:58:21.778663",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 100,
+    "timestamp": "2025-05-30T21:58:22.030595",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 15 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 101,
+    "timestamp": "2025-05-30T21:59:27.822119",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 102,
+    "timestamp": "2025-05-30T21:59:35.758112",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 103,
+    "timestamp": "2025-05-30T21:59:36.014178",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 104,
+    "timestamp": "2025-05-30T21:59:51.886270",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 105,
+    "timestamp": "2025-05-30T21:59:52.142163",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 106,
+    "timestamp": "2025-05-30T22:00:57.678016",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 107,
+    "timestamp": "2025-05-30T22:01:05.614179",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 108,
+    "timestamp": "2025-05-30T22:01:05.870238",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 109,
+    "timestamp": "2025-05-30T22:01:14.007291",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "54.39.128.230",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 110,
+    "timestamp": "2025-05-30T22:01:21.742077",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 111,
+    "timestamp": "2025-05-30T22:01:21.997969",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 15 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 112,
+    "timestamp": "2025-05-30T22:02:27.790359",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 113,
+    "timestamp": "2025-05-30T22:02:35.726273",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 114,
+    "timestamp": "2025-05-30T22:02:35.982770",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 115,
+    "timestamp": "2025-05-30T22:02:51.854186",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 116,
+    "timestamp": "2025-05-30T22:02:52.109963",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 117,
+    "timestamp": "2025-05-30T22:03:57.902355",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 118,
+    "timestamp": "2025-05-30T22:04:05.838214",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 119,
+    "timestamp": "2025-05-30T22:04:06.094002",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 120,
+    "timestamp": "2025-05-30T22:04:21.970065",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 121,
+    "timestamp": "2025-05-30T22:04:22.222082",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 122,
+    "timestamp": "2025-05-30T22:05:28.019428",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 10 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 123,
+    "timestamp": "2025-05-30T22:05:35.950086",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 11 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 124,
+    "timestamp": "2025-05-30T22:05:36.206263",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 12 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 125,
+    "timestamp": "2025-05-30T22:05:52.078081",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 13 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  },
+  {
+    "id": 126,
+    "timestamp": "2025-05-30T22:05:52.334406",
+    "type": "Port Scan Detected",
+    "source_ip": "10.0.2.4",
+    "destination_ip": "34.149.100.209",
+    "details": "Scanned 14 ports in 60 seconds",
+    "severity": "HIGH",
+    "status": "active"
+  }
+]
